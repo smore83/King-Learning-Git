@@ -1,2 +1,2 @@
 THIS IS ZEMOSO GREETING
-for 3 waymerging
+for 3 waymerging for the mergeconflict
